@@ -1,7 +1,7 @@
 const productCategory = [
     { id: 1, label: "Airpodes", value: "airpodes" },
     { id: 2, label: "Grocery", value: "grocery" },
-    { id: 3, label: "Airconditioner", value: "airconditioner" },
+    { id: 3, label: "AC", value: "ac" },
     { id: 4, label: "Mobiles", value: "mobiles" },
     { id: 5, label: "Mouse", value: "Mouse" },
     { id: 6, label: "Printers", value: "printers" },
